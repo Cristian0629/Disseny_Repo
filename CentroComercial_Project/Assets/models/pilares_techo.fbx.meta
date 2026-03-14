@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5fecf2c518ed08d478e68a95468eb691
+guid: 302c971bf76ca8b47adddc74c33c7e31
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
@@ -7,13 +7,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Interior_Arco2
-    second: {fileID: 2100000, guid: 69f7216c0a472f04289e05706fd5d81e, type: 2}
+      name: Material.003
+    second: {fileID: 2100000, guid: 2c67e9560dd116349a4ccd0e72281448, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Oro
-    second: {fileID: 2100000, guid: 2c67e9560dd116349a4ccd0e72281448, type: 2}
+      name: Material.004
+    second: {fileID: 2100000, guid: 681352ddd7ea9814cbc474ed41432a66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: por dentro
+    second: {fileID: 2100000, guid: 681352ddd7ea9814cbc474ed41432a66, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
