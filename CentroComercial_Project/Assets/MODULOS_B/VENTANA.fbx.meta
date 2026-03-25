@@ -1,9 +1,39 @@
 fileFormatVersion: 2
-guid: a9cdbeb56256cac41ba978117b95b2b8
+guid: 656e329575fc6d94d9cf94477a79882c
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior_Arco2
+    second: {fileID: 2100000, guid: 6f516c5ba536ed848b401bce004be742, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_GLass
+    second: {fileID: 2100000, guid: 6205ee41fd533b04881735e96f86b940, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 6f516c5ba536ed848b401bce004be742, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 6f516c5ba536ed848b401bce004be742, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_pared
+    second: {fileID: 2100000, guid: cc83952877c69d443b498017035e9c3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_piedra
+    second: {fileID: 2100000, guid: 4ecebe1f8a2f58549a25ba3d88e37980, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
