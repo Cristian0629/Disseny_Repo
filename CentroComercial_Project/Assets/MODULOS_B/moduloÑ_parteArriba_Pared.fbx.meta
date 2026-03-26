@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 302c971bf76ca8b47adddc74c33c7e31
+guid: e6002d4c682550d4db84b5dc0791d9aa
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
@@ -7,18 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material.003
-    second: {fileID: 2100000, guid: 2c67e9560dd116349a4ccd0e72281448, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.004
-    second: {fileID: 2100000, guid: 681352ddd7ea9814cbc474ed41432a66, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: por dentro
-    second: {fileID: 2100000, guid: 681352ddd7ea9814cbc474ed41432a66, type: 2}
+      name: Material.002
+    second: {fileID: 2100000, guid: cc83952877c69d443b498017035e9c3d, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -61,7 +51,7 @@ ModelImporter:
     nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
@@ -77,10 +67,10 @@ ModelImporter:
     meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15
+    secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVMarginMethod: 1
-    secondaryUVMinLightmapResolution: 2048
+    secondaryUVMinLightmapResolution: 40
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1

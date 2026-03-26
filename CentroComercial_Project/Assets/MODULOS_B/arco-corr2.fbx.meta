@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c8d36df01d8581f49a1e9273d130addd
+guid: 1ff4bbc3c82bd0449812f5aa51bf4bde
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
@@ -7,23 +7,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: N_Base_Columna.001
-    second: {fileID: 2100000, guid: 69f7216c0a472f04289e05706fd5d81e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: N_Exterior_Columna
+      name: ARCO (NUEVA).001
     second: {fileID: 2100000, guid: 2c67e9560dd116349a4ccd0e72281448, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: N_Interior_Columna
-    second: {fileID: 2100000, guid: 681352ddd7ea9814cbc474ed41432a66, type: 2}
+      name: Interior_Arco2.001
+    second: {fileID: 2100000, guid: 69f7216c0a472f04289e05706fd5d81e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: N_ORO_Columna
+      name: Oro.001
     second: {fileID: 2100000, guid: 44b7c706ff38fd34986f5fb0b8a2da60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pARTE_iNTERIOR_arco
+    second: {fileID: 2100000, guid: 681352ddd7ea9814cbc474ed41432a66, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
