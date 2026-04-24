@@ -1,9 +1,24 @@
 fileFormatVersion: 2
-guid: aeb1434cb0df3a648b3123d0ee2ec3da
+guid: c8909d5776e9d4349ae476a8f862c75b
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CARTEL
+    second: {fileID: 2100000, guid: 3fd8bae6525c59f428142ba1c40ab2d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 5ce573daef50b294f92f40d2517a7cc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: e7f235b4e9f27c64aa0572b948b426ce, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
