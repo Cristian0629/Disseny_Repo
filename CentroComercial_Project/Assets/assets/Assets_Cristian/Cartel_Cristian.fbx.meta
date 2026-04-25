@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: CARTEL
-    second: {fileID: 2100000, guid: 3fd8bae6525c59f428142ba1c40ab2d1, type: 2}
+    second: {fileID: 2100000, guid: 599ef5266dbd8dd489ce15b554532447, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
